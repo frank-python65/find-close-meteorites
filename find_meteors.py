@@ -1,5 +1,4 @@
 import math
-import pygments
 import requests
 
 def calc_dist(lat1, lon1, lat2, lon2):
